@@ -1,0 +1,30 @@
+body {
+		background-color: #cccccc 
+	}
+		h1 
+		{
+			text-align: center;
+			color: red;
+			font-family: garamond, courier, arial, helvetica, sans-serif;
+			font-size: 40px;	
+			background-color: #cccccc 
+		}
+
+		h2 
+		{
+			text-align: center;
+			color: red;
+			font-family: garamond, courier, arial, helvetica, sans-serif;
+			font-size: 30px;	
+			background-color: #cccccc 
+		}
+
+		p 
+		{
+			text-align: center;
+			color: black;
+			font-family: garamond, arial, helvetica, sans-serif;
+			font-size: 20px;	
+			background-color: #cccccc 
+		}
+  

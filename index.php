@@ -1,32 +1,29 @@
 <html>
 
+<title>
+	Crimson Crusader Home Page
+</title>
+  
 <head>
-  <title>Crimson Crusader Home Page</title>
+  <link rel="stylesheet" href="./crimstyle.css">
 </head>
 
-<body bgcolor=#cccccc>
+<body>
 
-<h1 style="text-align:center;margin-left:auto;margin-right:auto;">
-	<span style="color:#ff0000">
-		<span style="font-size: 40pt">
-			Welcome<br>
-			Crimson Crusader<br>
-		</span>
-	</span>
+<h1>
+	<br>
+	Crimson Crusader<br>
 </h1>
-
-<p style="text-align:center;margin-left:auto;margin-right:auto;font-size: 22pt">
-	<span style="color:#000000">
-		created by Jose Forcade
-		<br><br>
-	</span>
-</p>
+<h2>
+	created by Jose Forcade
+	<br><br>
+</h2>
 
 <p ALIGN=center>
-	<img src="./ByTheBeach.jpg" WIDTH=160 HEIGHT=210 ALIGN=left BORDER=10 HSPACE=50>
-	<img src="./Sunrise.jpg" WIDTH=260 HEIGHT=200 ALIGN=right BORDER=10 HSPACE=30>
+
+	<img src="./ByTheBeach.jpg" WIDTH=160 HEIGHT=210 ALIGN=left BORDER=5 HSPACE=50>
+	<img src="./Sunrise.jpg" WIDTH=260 HEIGHT=200 ALIGN=right BORDER=5 HSPACE=30>
 	
-	<span style="font-size: 18pt">
 		This web page was created in a 
 		spur of the moment inspiration.... 
 		In addition to programming in VB.NET,
@@ -41,16 +38,13 @@
 		love to learn and understand new ideas and constructs 
 		especially leading to the design and use of computers.
 		<br><br><br>
-	</span>
 
 	</p>
-<p ALIGN=center>
-	<span>
+<p>
 		<br><br>
 		This page was created in Sublime Text 2 and also edited in Notepad++ <br>
 		::<br>
 		September 15 2013
-	</span>
 </p>
 </body>
 
