@@ -20,11 +20,16 @@
 	<br><br>
 </h2>
 
-<p ALIGN=center>
+<h3>
+	<img src="./ByTheBeach.jpg" alt="Jose by the beach" <!--WIDTH=160 HEIGHT=210> <!-- ALIGN=left BORDER=5 HSPACE=50> -->
+</h3>
 
-	<img src="./ByTheBeach.jpg" alt="Jose by the beach" WIDTH=160 HEIGHT=210 ALIGN=left BORDER=5 HSPACE=50>
-	<img src="./Sunrise.jpg" alt="Very early sunrise" WIDTH=260 HEIGHT=200 ALIGN=right BORDER=5 HSPACE=30>
-	
+<h4>
+	<img src="./Sunrise.jpg" alt="Very early sunrise" <!--WIDTH=260 HEIGHT=200> <!-- ALIGN=right BORDER=5 HSPACE=30> -->
+</h4>
+
+<p>
+
 		This web page was created in a 
 		spur of the moment inspiration.... 
 		In addition to programming in VB.NET,

@@ -1,6 +1,7 @@
 body {
 		background-color: #cccccc 
 	}
+
 		h1 
 		{
 			text-align: center;
@@ -17,6 +18,20 @@ body {
 			font-family: garamond, courier, arial, helvetica, sans-serif;
 			font-size: 30px;	
 			background-color: #cccccc 
+		}
+
+		h3 
+		{
+			float: left;
+			width: 160;
+			height: 210;
+		}
+
+		h4 
+		{
+			float: right;
+			width: 260;
+			height: 200;
 		}
 
 		p 
