@@ -1,10 +1,11 @@
+<!DOCTYPE html>
 <html>
-
 <title>
 	Crimson Crusader Home Page
 </title>
   
 <head>
+  <meta charset="UTF-8"> 
   <link rel="stylesheet" href="./crimstyle.css">
 </head>
 
