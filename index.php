@@ -21,15 +21,12 @@
 </h2>
 
 <div class="img1">
-		<img src="./Sunrise.jpg" alt="Very early sunrise" width=260 height=200>
-</div>
-
-<div class="img2">
-		<img src="./ByTheBeach.jpg" alt="Jose by the beach" width=160 height=210>
+		<img src="./Sunrise.jpg" alt="Very early sunrise" width=400 height=300>
 </div>
 
 <p>
 
+		<br>
 		This web page was created in a 
 		spur of the moment inspiration.... 
 		In addition to programming in VB.NET,
@@ -47,9 +44,10 @@
 		<br><br>
 
 </p>
-		
+
+	
 <p>
-		<br><br><br>
+		<br><br><br><br><br><br>
 		
 		This page was created in Sublime Text 2 and also edited in Notepad++ 
 		
