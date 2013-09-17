@@ -20,13 +20,10 @@
 	<br><br>
 </h2>
 
-<h3>
-	<img src="./ByTheBeach.jpg" alt="Jose by the beach" <!--WIDTH=160 HEIGHT=210> <!-- ALIGN=left BORDER=5 HSPACE=50> -->
-</h3>
-
-<h4>
-	<img src="./Sunrise.jpg" alt="Very early sunrise" <!--WIDTH=260 HEIGHT=200> <!-- ALIGN=right BORDER=5 HSPACE=30> -->
-</h4>
+<figure>
+	<img id=img1 src="./ByTheBeach.jpg" alt="Jose by the beach" width=160 hight=210 align=left>
+	<img id=img2 src="./Sunrise.jpg" alt="Very early sunrise" width=260 hight=200 align=right>
+</figure>
 
 <p>
 
@@ -43,14 +40,15 @@
 		Harvard's Extension University ALM Program and 
 		love to learn and understand new ideas and constructs 
 		especially leading to the design and use of computers.
-		<br><br><br>
-
-	</p>
-<p>
-		<br><br>
-		This page was created in Sublime Text 2 and also edited in Notepad++ <br>
-		::<br>
+		
+		<br><br><br><br><br>
+		
+		This page was created in Sublime Text 2 and also edited in Notepad++ 
+		
+		<br>::<br>
+		
 		September 15 2013
+		
 </p>
 </body>
 
