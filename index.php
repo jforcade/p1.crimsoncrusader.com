@@ -41,7 +41,7 @@
 		love to learn and understand new ideas and constructs 
 		especially leading to the design and use of computers.
 		
-		<br><br>
+		<br><br><br><br><br><br>
 
 </p>
 
