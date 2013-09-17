@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-<title>
-	Crimson Crusader Home Page
-</title>
-  
 <head>
-  <meta charset="UTF-8"> 
-  <link rel="stylesheet" href="./crimstyle.css">
+	<title>
+		Crimson Crusader Home Page
+	</title>
+	<meta charset="UTF-8"> 
+	<link rel="stylesheet" href="./crimstyle.css">
+	
 </head>
 
 <body>
@@ -20,10 +20,13 @@
 	<br><br>
 </h2>
 
-<figure>
-	<img id=img1 src="./ByTheBeach.jpg" alt="Jose by the beach" width=160 hight=210 align=left>
-	<img id=img2 src="./Sunrise.jpg" alt="Very early sunrise" width=260 hight=200 align=right>
-</figure>
+<div class="img1">
+		<img src="./Sunrise.jpg" alt="Very early sunrise" width=260 height=200>
+</div>
+
+<div class="img2">
+		<img src="./ByTheBeach.jpg" alt="Jose by the beach" width=160 height=210>
+</div>
 
 <p>
 
@@ -41,7 +44,12 @@
 		love to learn and understand new ideas and constructs 
 		especially leading to the design and use of computers.
 		
-		<br><br><br><br><br>
+		<br><br>
+
+</p>
+		
+<p>
+		<br><br><br>
 		
 		This page was created in Sublime Text 2 and also edited in Notepad++ 
 		

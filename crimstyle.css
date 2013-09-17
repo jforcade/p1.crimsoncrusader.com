@@ -20,6 +20,16 @@ body {
 			background-color: #cccccc 
 		}
 
+		div.img1
+		{
+			float: right;
+		}
+		
+		div .img2
+		{
+			float: right;
+		}
+
 		p 
 		{
 			text-align: center;
